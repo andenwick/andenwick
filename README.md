@@ -2,7 +2,7 @@
 
 **Full-Stack Developer** | CS Student at SLCC | Building production software with modern AI tools
 
-I ship real products, not just tutorials. Currently leveraging AI-assisted development to build and iterate faster—from database design to deployment.
+I build production software using AI-assisted development to move faster—from database design to deployment.
 
 ## 🚀 What I'm Working On
 
