@@ -18,8 +18,8 @@ Full checkout flow with Stripe, admin dashboard, inventory management, review sy
 **LogicGatesSim** | [Repo](https://github.com/andenwick/LogicGatesSim)
 Digital logic simulator. AND, OR, NOT, XOR, XNOR gates + half adder. Built to understand how computers process binary at the hardware level.
 
-**port-scanner** | [Repo](https://github.com/andenwick/port-scanner)
-Fast multi-threaded TCP port scanner. Python.
+**DNS Spy** | [Repo](https://github.com/andenwick/dns-spy)
+Network security tool for DNS threat detection. DGA detection, exfiltration detection, tunneling detection. C with libpcap.
 
 **simple-finance-tracker** | [Repo](https://github.com/andenwick/simple-finance-tracker)
 Minimal web app for logging income and expenses with charts. JavaScript.
