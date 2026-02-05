@@ -9,7 +9,7 @@ Next.js | React | Node.js | PostgreSQL | Python | C
 I build production web applications for small businesses.
 
 **E-commerce Platform** | [Live Site](https://friesianranchwear.com)
-Full checkout flow with Stripe, admin dashboard, inventory management, review system, order tracking. Next.js, PostgreSQL, Prisma, Railway. Currently on a $300/month maintenance contract.
+Full checkout flow with Stripe, admin dashboard, inventory management, review system, order tracking. Built from scratch in one week. Next.js, PostgreSQL, Prisma, Railway.
 
 *Taking on new clients. Contact: andenwick@gmail.com*
 
