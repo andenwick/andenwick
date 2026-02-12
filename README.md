@@ -1,34 +1,33 @@
 # Anden Wickstrand
 
-**Computer Engineering Student** | **Freelance Web Developer**
+Computer Science · SLCC · transferring to University of Utah
 
-Next.js | React | Node.js | PostgreSQL | Python | C
+I like building things. I've been writing code since I was a teenager, started freelancing last year. Right now I'm focused on getting better at the fundamentals while taking on projects that push me.
 
-## Client Work
+## Projects
 
-I build production web applications for small businesses.
+**ProxyStaff** · [Repo](https://github.com/andenwick/ProxyStaff)
+AI assistant that connects to WhatsApp and Telegram. Multi-tenant, scheduled tasks, persistent memory, PostgreSQL. TypeScript, Fastify, Prisma.
 
-**E-commerce Platform** | [Live Site](https://friesianranchwear.com)
-Full checkout flow with Stripe, admin dashboard, inventory management, review system, order tracking. Built from scratch in one week. Next.js, PostgreSQL, Prisma, Railway.
+**Friesian Ranchwear** · [Live](https://friesianranchwear.com)
+E-commerce site for a client. Stripe checkout, admin dashboard, inventory management. Next.js, PostgreSQL, Prisma.
 
-*Taking on new clients. Contact: andenwick@gmail.com*
+**CarScan** · [Repo](https://github.com/andenwick/CarScan)
+Reads vehicle diagnostics through an OBD-II adapter and generates PDF reports. C.
 
-## Personal Projects
+**dns-spy** · [Repo](https://github.com/andenwick/dns-spy)
+DNS threat detection. Catches domain generation algorithms, data exfiltration, tunneling. C, libpcap.
 
-**LogicGatesSim** | [Repo](https://github.com/andenwick/LogicGatesSim)
-Digital logic simulator. AND, OR, NOT, XOR, XNOR gates + half adder. Built to understand how computers process binary at the hardware level.
+**port-scanner** · [Repo](https://github.com/andenwick/port-scanner)
+Multi-threaded TCP port scanner. Python.
 
-**DNS Spy** | [Repo](https://github.com/andenwick/dns-spy)
-Network security tool for DNS threat detection. DGA detection, exfiltration detection, tunneling detection. C with libpcap.
+**LogicGatesSim** · [Repo](https://github.com/andenwick/LogicGatesSim)
+Digital logic simulator. AND, OR, NOT, XOR, XNOR gates + half adder. JavaScript.
 
-**simple-finance-tracker** | [Repo](https://github.com/andenwick/simple-finance-tracker)
-Minimal web app for logging income and expenses with charts. JavaScript.
+## Stack
 
-## Currently
-
-SLCC Computer Engineering (transferring to University of Utah)
-Looking for internships and part time technical roles
+Python · C · TypeScript · JavaScript · Next.js · React · Node.js · PostgreSQL
 
 ## Contact
 
-andenwick@gmail.com | [LinkedIn](https://linkedin.com/in/anden-wickstrand23)
+andenwick@gmail.com · [LinkedIn](https://linkedin.com/in/anden-wickstrand23)
