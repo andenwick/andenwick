@@ -1,6 +1,6 @@
 # Anden Wickstrand
 
-Computer Science · SLCC · transferring to University of Utah
+Computer Engineering · SLCC · transferring to University of Utah
 
 I like building things. I've been writing code since I was a teenager, started freelancing last year. Right now I'm focused on getting better at the fundamentals while taking on projects that push me.
 
