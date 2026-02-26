@@ -4,7 +4,7 @@ Computer Engineering · SLCC → University of Utah · 3.9 GPA
 
 The tools never matter as much as the thinking behind them. I spent four years producing music before software. Hundreds of tracks, mixing, mastering, all self-taught. Same principle carries over: clarity about what should exist, then produce it well.
 
-I work primarily through Claude Code, and I've gotten very good at it. Custom skills, MCP servers, browser automation, multi-agent workflows. I use AI the way a producer uses a studio. The thinking is mine. The throughput is multiplied. That's how I ship real systems at 19.
+I work primarily through Claude Code, and I've gotten very good at it. Custom skills, MCP servers, browser automation, multi-agent workflows. I use AI the way a producer uses a studio. The thinking is mine. The throughput is multiplied. That's how I ship live systems at 19.
 
 ## Shipped
 
