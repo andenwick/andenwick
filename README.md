@@ -1,33 +1,29 @@
 # Anden Wickstrand
 
-Computer Engineering · SLCC · transferring to University of Utah
+Computer Engineering · SLCC → University of Utah · 3.9 GPA
 
-I like building things. I've been writing code since I was a teenager, started freelancing last year. Right now I'm focused on getting better at the fundamentals while taking on projects that push me.
+The tools never matter as much as the thinking behind them. I spent four years producing music before software. Hundreds of tracks, mixing, mastering, all self-taught. Same principle carries over: clarity about what should exist, then produce it well.
+
+I work primarily through Claude Code, and I've gotten very good at it. Custom skills, MCP servers, browser automation, multi-agent workflows. I use AI the way a producer uses a studio. The thinking is mine. The throughput is multiplied. That's how I ship real systems at 19.
+
+## Shipped
+
+**[Friesian Ranchwear](https://friesianranchwear.com)** · Full e-commerce platform for a western/streetwear brand. Stripe checkout, admin dashboard, inventory management, review system. Next.js, PostgreSQL, Prisma.
+
+**[Salt Flat Coffee](https://saltflat.andenwick.dev)** · Marketing site for an artisan coffee roaster. Custom scroll animations, SVG wave dividers. Next.js.
 
 ## Projects
 
-**ProxyStaff** · [Repo](https://github.com/andenwick/ProxyStaff)
-AI assistant that connects to WhatsApp and Telegram. Multi-tenant, scheduled tasks, persistent memory, PostgreSQL. TypeScript, Fastify, Prisma.
+**[ProxyStaff](https://github.com/andenwick/proxy-staff)** · Multi-tenant AI assistant platform. Connects Claude to WhatsApp and Telegram. Scheduled tasks, persistent memory. TypeScript, Fastify, Prisma, PostgreSQL.
 
-**Friesian Ranchwear** · [Live](https://friesianranchwear.com)
-E-commerce site for a client. Stripe checkout, admin dashboard, inventory management. Next.js, PostgreSQL, Prisma.
+**[CarScan](https://github.com/andenwick/car-scan)** · OBD-II vehicle diagnostic tool. C library + Android app (Kotlin/JNI). Reads live sensor data and generates PDF reports.
 
-**CarScan** · [Repo](https://github.com/andenwick/CarScan)
-Reads vehicle diagnostics through an OBD-II adapter and generates PDF reports. C.
-
-**dns-spy** · [Repo](https://github.com/andenwick/dns-spy)
-DNS threat detection. Catches domain generation algorithms, data exfiltration, tunneling. C, libpcap.
-
-**port-scanner** · [Repo](https://github.com/andenwick/port-scanner)
-Multi-threaded TCP port scanner. Python.
-
-**LogicGatesSim** · [Repo](https://github.com/andenwick/LogicGatesSim)
-Digital logic simulator. AND, OR, NOT, XOR, XNOR gates + half adder. JavaScript.
+**[dns-spy](https://github.com/andenwick/dns-spy)** · Network security tool for DNS threat detection. DGA detection, data exfiltration detection, tunneling detection. C, libpcap.
 
 ## Stack
 
-Python · C · TypeScript · JavaScript · Next.js · React · Node.js · PostgreSQL
+`Python` · `C` · `TypeScript` · `JavaScript` · `Next.js` · `React` · `Node.js` · `PostgreSQL` · `Prisma` · `Docker` · `Git`
 
 ## Contact
 
-andenwick@gmail.com · [LinkedIn](https://linkedin.com/in/anden-wickstrand23)
+[andenwick@gmail.com](mailto:andenwick@gmail.com) · [LinkedIn](https://linkedin.com/in/andenwick)
