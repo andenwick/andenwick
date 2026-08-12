@@ -1,25 +1,24 @@
-## Anden Wickstrand
+# Anden Wickstrand
 
-Computer Engineering · SLCC → University of Utah · 4.0 GPA
+Computer engineering student in Utah. I build client web systems, developer tools, and low-level projects, then keep digging until I understand why they work.
 
-I like understanding how things actually work. Right now that means C, serial protocols, packet parsing, and low-level networking. I learn by building.
+## Work that shipped
 
-### Shipped
+- **[Friesian Ranchwear](https://friesianranchwear.com)** — a full e-commerce system for a streetwear brand: Stripe checkout, inventory, reviews, and the admin tools behind it. [Source](https://github.com/andenwick/friesian-ranchwear)
+- **[Salt Flat Coffee](https://saltflat.andenwick.dev)** — a custom responsive brand site with procedural SVG transitions and scroll-driven interaction. [Source](https://github.com/andenwick/salt-flat-coffee)
+- **[Sentry Peak](https://sentrypeak.com)** — my small systems practice for turning messy operational problems into focused software and automation.
 
-**Friesian Ranchwear** · Full e-commerce platform for a western/streetwear brand. Stripe checkout, admin dashboard, inventory management, review system. Next.js, PostgreSQL, Prisma.
+## Engineering projects
 
-**Salt Flat Coffee** · Marketing site for an artisan coffee roaster. Custom scroll animations, SVG wave dividers. Next.js.
+- **[CarScan](https://github.com/andenwick/car-scan)** — OBD-II parsing in C with an Android/JNI interface. Six native test suites cover hex parsing, ELM327 responses, PIDs, sensors, DTCs, and VINs.
+- **[Airbit](https://github.com/andenwick/airbit)** — an interactive phase-shift-keying visualizer built to make the signal visible instead of abstract.
+- **[mail-auth-check](https://github.com/andenwick/mail-auth-check)** — a Python CLI for checking SPF, DKIM, DMARC, and MX posture directly from DNS.
+- **[Binary Logic Studio](https://github.com/andenwick/binary-logic-studio)** — an interactive trainer for binary arithmetic and logic gates.
 
-### Projects
+## Tools I use
 
-**CarScan** · OBD-II vehicle diagnostic tool. C library + Android app (Kotlin/JNI). Reads live sensor data and generates PDF reports.
+C · Python · TypeScript · JavaScript · Next.js · React · Node.js · PostgreSQL · Prisma · Docker · Git
 
-**dns-spy** · Network security tool for DNS threat detection. DGA detection, data exfiltration detection, tunneling detection. C, libpcap.
+I use AI heavily, but I care about the code underneath it and whether the final thing holds up.
 
-### Stack
-
-C · Python · NASM x86 · TypeScript · JavaScript · Next.js · React · Node.js · PostgreSQL · Prisma · Docker · Git
-
-### Contact
-
-andenwick@gmail.com · [LinkedIn](https://linkedin.com/in/andenwick)
+**[LinkedIn](https://linkedin.com/in/andenwick)** · [andenwick@gmail.com](mailto:andenwick@gmail.com)
